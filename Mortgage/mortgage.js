@@ -34,3 +34,4 @@ function calculateMortgage(loanValue, depositAmount, salary) {
         return "Monthly Payment: £" + monthlyPayment.toFixed(2);
     }
 }
+//test
